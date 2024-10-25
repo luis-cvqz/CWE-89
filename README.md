@@ -1,0 +1,1 @@
+# CWE-89: Improper Neutralization of Special Elements used in a SQL Command ('SQL Injection')
